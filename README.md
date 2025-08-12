@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Ola me chamo Carlos, tenho 23 anos, moro no Céara. Atualmente trabalho como desenvolvedor Front-end em uma empresa de gateway de pagamento, Estou cursando na rocketseat e no momento tranquei minha faculdade de analise e desenvolvimento de sistemas, Gosto de musculação e outros esportes. Meu hobby é assitir conteudo de tecnologias, 
+Ola me chamo Carlos, tenho 23 anos, moro no Céara. Desenvolvedor Front-end com experiência na criação de interfaces modernas, responsivas e performáticas. Sólidos conhecimentos em tecnologias como React, Next.js, TypeScript e Tailwind CSS. Possuo também experiência com desenvolvimento Back-end utilizando Node.js e NestJS, o que me permite atuar de forma mais completa em projetos full stack. Comprometido com boas práticas, versionamento de código e entrega de soluções eficientes e escaláveis.
 
 
 
